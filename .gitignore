@@ -1,2 +1,3 @@
 templateconf.cfg
 local.conf
+rksdk_override.conf
